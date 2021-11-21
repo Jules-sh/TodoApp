@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/julianschumacher/Programmierung/workspaces/temp/TodoApp/build/shared_preferences_android/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/julianschumacher/.gradle/caches/transforms-2/files-2.1/5e607ae0d0d659b20da77098dc6672cb/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/julianschumacher/Programmierung/workspaces/temp/TodoApp/build/shared_preferences_android/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/julianschumacher/.gradle/caches/transforms-2/files-2.1/5e607ae0d0d659b20da77098dc6672cb/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/julianschumacher/Programmierung/workspaces/temp/TodoApp/build/shared_preferences_android/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/julianschumacher/.gradle/caches/transforms-2/files-2.1/5e607ae0d0d659b20da77098dc6672cb/core-1.1.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/julianschumacher/Programmierung/workspaces/temp/TodoApp/build/shared_preferences_android/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/julianschumacher/.gradle/caches/transforms-2/files-2.1/5e607ae0d0d659b20da77098dc6672cb/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/julianschumacher/Programmierung/workspaces/temp/TodoApp/build/shared_preferences_android/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/julianschumacher/.gradle/caches/transforms-2/files-2.1/5e607ae0d0d659b20da77098dc6672cb/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    }
+]

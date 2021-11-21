@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/julianschumacher/Programmierung/workspaces/temp/TodoApp/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/julianschumacher/.gradle/caches/transforms-2/files-2.1/5e607ae0d0d659b20da77098dc6672cb/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/julianschumacher/Programmierung/workspaces/temp/TodoApp/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/julianschumacher/.gradle/caches/transforms-2/files-2.1/5e607ae0d0d659b20da77098dc6672cb/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/julianschumacher/Programmierung/workspaces/temp/TodoApp/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/julianschumacher/.gradle/caches/transforms-2/files-2.1/5e607ae0d0d659b20da77098dc6672cb/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/julianschumacher/Programmierung/workspaces/temp/TodoApp/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/julianschumacher/.gradle/caches/transforms-2/files-2.1/5e607ae0d0d659b20da77098dc6672cb/core-1.1.0/res/drawable/notification_bg_low.xml"
+    }
+]

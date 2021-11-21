@@ -1,0 +1,4 @@
+#Sat Nov 20 15:05:28 CET 2021
+base.0=/Users/julianschumacher/Programmierung/workspaces/temp/TodoApp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
